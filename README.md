@@ -1,5 +1,5 @@
 # AntiGravityPlugin
-configで指定された方向に加速するプラグイン
+configで指定された加速度で加速するプラグイン
 
 activate:
 
