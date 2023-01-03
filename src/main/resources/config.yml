@@ -1,0 +1,7 @@
+#schedule時間[tick] 20tick=1s
+dt: 4
+#g:重力加速度9.8[m/s^2]
+g:
+  x: 0.0
+  y: 9.8
+  z: 0.0

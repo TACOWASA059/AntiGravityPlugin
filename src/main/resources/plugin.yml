@@ -1,0 +1,16 @@
+name: AntiGravityPlugin
+version: '${project.version}'
+main: com.github.tacowasa059.antigravityplugin.AntiGravityPlugin
+api-version: 1.16
+authors: [ TACOWASA059 ]
+website: https://github.com/TACOWASA059
+commands:
+  Grav-start:
+    description: start plugin
+    usage: /<command>
+  Grav-stop:
+    description: stop plugin
+    usage: /<command>
+  setG:
+    description: set g value
+    usage: /<command> x y z
